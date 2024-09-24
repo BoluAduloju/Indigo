@@ -61,39 +61,39 @@ export const testimonials = [
 export const features = [
   {
     icon: <HardDriveDownload />,
-    text: "Fast and Real-time transaction Updates ",
+    text: "Fast and Real-time Updates ",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Easily receive notification from various integrated platform, without no transaction error.",
   },
   {
     icon: <Fingerprint />,
     text: " Secured with Authentication ",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Process payment transaction without breaches with our 2FA authentication security",
   },
   {
     icon: <ClipboardList />,
     text: "Sales Report",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Recieve weekly, monthly, quaterly and annually detailed sales report with transaction activities.",
   },
   {
     icon: <ChartLine />,
     text: "Analytics",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Preview your revenue and transaction; allowing you see all financial activity visually.",
   },
   {
     icon: <Cable />,
     text: "Seemless Integration",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Integrate every payment platform you use in receiving payment, for all your product and services",
   },
   {
     icon: <BotMessageSquare />,
     text: "AI financial assistant",
     description:
-      "Gain valuable insights into how to can further keep your money and investment advice without our enhanced financial artificial intelligence.",
+      "Gain valuable financial insights with our enhanced financial artificial intelligence.",
   },
 ];
 
