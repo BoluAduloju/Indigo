@@ -1,9 +1,9 @@
-import { BotMessageSquare } from "lucide-react";
-import { BatteryCharging } from "lucide-react";
+import { HardDriveDownload } from "lucide-react";
+import { ChartLine } from "lucide-react";
 import { Fingerprint } from "lucide-react";
-import { ShieldHalf } from "lucide-react";
-import { PlugZap } from "lucide-react";
-import { GlobeLock } from "lucide-react";
+import { ClipboardList } from "lucide-react";
+import { Cable } from "lucide-react";
+import { BotMessageSquare } from "lucide-react";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
 import user2 from "../assets/profile-pictures/user6.jpg";
@@ -60,40 +60,40 @@ export const testimonials = [
 
 export const features = [
   {
-    icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    icon: <HardDriveDownload />,
+    text: "Fast and Real-time transaction Updates ",
     description:
       "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: " Secured with Authentication ",
     description:
       "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
   },
   {
-    icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    icon: <ClipboardList />,
+    text: "Sales Report",
     description:
       "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
   },
   {
-    icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    icon: <ChartLine />,
+    text: "Analytics",
     description:
       "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
   },
   {
-    icon: <PlugZap />,
-    text: "Collaboration Tools",
+    icon: <Cable />,
+    text: "Seemless Integration",
     description:
       "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
   },
   {
-    icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    icon: <BotMessageSquare />,
+    text: "AI financial assistant",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Gain valuable insights into how to can further keep your money and investment advice without our enhanced financial artificial intelligence.",
   },
 ];
 
