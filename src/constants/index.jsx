@@ -27,7 +27,7 @@ export const testimonials = [
     text: "I am extremely satisfied with the services provided. Managing my revenue has become a lot more easier with just my dashboard",
   },
   {
-    user: "Angela Lee",
+    user: "Angela Nneka",
     company: "Freelance Writer",
     image: user2,
     text: "I couldn't be happier with the outcome of the sales remote i got om my recent book i put on sale online, I got details analytics for all transactions",
@@ -51,7 +51,7 @@ export const testimonials = [
     text: "I am amazed by the level of detailed sales report Indigo send weekly. all i need to do is focus only on my product marketing with Indgo.",
   },
   {
-    user: "Sophia Hernandez",
+    user: "Mark Feranmi",
     company: "CMO at PayPoint",
     image: user6,
     text: "With Indigo,I have been able to track our revenue weekly,monthly,quarterly and annually with a detailed sales report i can share with my team .",
@@ -153,26 +153,33 @@ export const pricingOptions = [
   },
 ];
 
-export const resourcesLinks = [
-  { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
+export const exploreLinks = [
+  { href: "#", text: "About" },
+  { href: "#", text: "Features" },
+  { href: "#", text: "Workflow" },
+  { href: "#", text: "Pricing" },
   { href: "#", text: "Community Forums" },
 ];
 
-export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+export const resourcesLinks = [
+  { href: "#", text: "Support" },
+  { href: "#", text: "Blog" },
+  { href: "#", text: "Integration" },
+  { href: "#", text: "Dashboard Guide" },
+  { href: "#", text: "Customers" },
+];
+export const followLinks = [
+  { href: "#", text: "LinkedIn" },
+  { href: "#", text: "X (Twitter)" },
+  { href: "#", text: "Instagram" },
+  { href: "#", text: "TikTok" },
+  { href: "#", text: "Facebook" },
 ];
 
 export const communityLinks = [
   { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Conference" },
+  { href: "#", text: "Terms of service" },
+  { href: "#", text: "Privacy Policy" },
+  { href: "#", text: "Careers" },
 ];
