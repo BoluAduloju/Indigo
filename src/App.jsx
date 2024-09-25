@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
 import Feature from "./components/Feature"
+import Workflow from "./components/Workflow"
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <div className="max-w-7xl mx-auto pt-10 px-6">
         <Hero />
         <Feature />
+        <Workflow />
       </div>
       
     </>

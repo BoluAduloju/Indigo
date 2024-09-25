@@ -99,22 +99,22 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Quick search for the payment plaform",
     description:
       "Track the performance of your VR apps and gain insights into user behavior.",
   },
   {
-    title: "Review code without worry",
+    title: "Include the access key from the payment platform",
     description:
       "Track the performance of your VR apps and gain insights into user behavior.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Integrate and receive all transaction details on your dashboard ",
     description:
       "Track the performance of your VR apps and gain insights into user behavior.",
   },
   {
-    title: "Share work in minutes",
+    title: "Get user-friendly analytics, report and Al enhanced insights",
     description:
       "Track the performance of your VR apps and gain insights into user behavior.",
   },
@@ -125,30 +125,29 @@ export const pricingOptions = [
     title: "Free",
     price: "$0",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
-      "Web Analytics",
-      "Private Mode",
+      "3 Integrated platform ",
+      "Basic Analytics",
+      "Product offering collection",
     ],
   },
   {
     title: "Pro",
-    price: "$10",
+    price: "$129",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
-      "Private Mode",
+      "30 Intergrated Platform",
+      "Al enhanced financial assistance",
+      "Advance Analytics ",
+      "Product offering colloection",
     ],
   },
   {
     title: "Enterprise",
-    price: "$200",
+    price: "$250",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
-      "Private Mode",
+      "Unlimited Integrated Platform ",
+      "Al enhanced financial assistance",
+      "Advanced Analytics",
+      "Product offering collection",
     ],
   },
 ];
