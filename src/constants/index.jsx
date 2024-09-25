@@ -101,31 +101,32 @@ export const checklistItems = [
   {
     title: "Quick search for the payment plaform",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Easily search for the specific payment plaform with our quick search.",
   },
   {
     title: "Include the access key from the payment platform",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Generate encrypted key from your selected payment platform you want to integrate.",
   },
   {
     title: "Integrate and receive all transaction details on your dashboard ",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Integrate with a click and started tracking every transaction details from your dashboard.",
   },
   {
     title: "Get user-friendly analytics, report and Al enhanced insights",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Get data-driven detailed analytics with report to help you make good financial decision.",
   },
 ];
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Basic",
+    price: "$50",
     features: [
-      "3 Integrated platform ",
+      "5 Integrated platform ",
+      "Al enhanced financial assistance",
       "Basic Analytics",
       "Product offering collection",
     ],
