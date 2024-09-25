@@ -1,4 +1,4 @@
-import dashboard from '../asset/indigo-dashboard.png'
+import dashBoard from '../assets/indigo-dashboard.png'
 
 const Hero = () => {
   return (
@@ -14,7 +14,7 @@ const Hero = () => {
             <a href="#" className="border py-3 px-4 mx-3 rounded-md ">Sign In</a>
         </div>
         <div className="flex mt-10 justify-center">
-          <img src={dashboard} alt="indigo-dashboard"  />
+          <img src={dashBoard} alt="indigo-dashboard"  />
         </div>
     </section>
   )
