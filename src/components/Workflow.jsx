@@ -1,5 +1,5 @@
 import {CheckCircle2} from 'lucide-react';
-import IntegrationImg from '../assets/indigo-features.png'
+import integrationImg from '../assets/indigo-features.png'
 import { checklistItems } from '../constants';
 
 const Workflow = () => {
@@ -12,7 +12,7 @@ const Workflow = () => {
       </div>
       <div className="flex flex-wrap justify-center mt-20">
          <div className="p-2 w-full lg:w-1/2 self-center">
-            <img src={IntegrationImg} alt="integration image"/>
+            <img src={integrationImg} alt="integration image"/>
          </div>
          <div className="pt-12 w-full lg:w-1/2 ">
             {checklistItems.map((item, index) => (
