@@ -7,10 +7,10 @@ import { BotMessageSquare } from "lucide-react";
 
 import user1 from "../assets/profile-pictures/user1.jpg";
 import user2 from "../assets/profile-pictures/user6.jpg";
-import user3 from "../assets/profile-pictures/user7.jpg";
-import user4 from "../assets/profile-pictures/user8.jpg";
-import user5 from "../assets/profile-pictures/user9.jpg";
-import user6 from "../assets/profile-pictures/user10.jpg";
+import user3 from "../assets/profile-pictures/user5.jpg";
+import user4 from "../assets/profile-pictures/user4.jpg";
+import user5 from "../assets/profile-pictures/user2.jpg";
+import user6 from "../assets/profile-pictures/user3.jpg";
 
 export const navItems = [
   { label: "Features", href: "#" },
@@ -22,39 +22,39 @@ export const navItems = [
 export const testimonials = [
   {
     user: "Jordan Olaitan",
-    company: "Stellar Solutions",
+    company: "Content Creator",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "I am extremely satisfied with the services provided. Managing my revenue has become a lot more easier with just my dashboard",
   },
   {
     user: "Angela Lee",
-    company: "Blue Horizon Technologies",
+    company: "Freelance Writer",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "I couldn't be happier with the outcome of the sales remote i got om my recent book i put on sale online, I got details analytics for all transactions",
   },
   {
     user: "Micheal Coleman",
-    company: "Quantum Innovations",
+    company: "Digital Creator",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "I struggle a lot trying to measure my sales from my online courses, but Indigo has bridged this gap seamlessly, while using multiple payment platform .",
   },
   {
     user: "Usman Omar",
-    company: "Fusion Dynamics",
+    company: "Freelance Product designer",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "Tracking my Income from Clients on different freelance platform has been a bottleneck for me, but now Indigo has made be accountable financially",
   },
   {
     user: "Eva Davis",
-    company: "Visionary Creations",
+    company: " CEO at WigsbyEva",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "I am amazed by the level of detailed sales report Indigo send weekly. all i need to do is focus only on my product marketing with Indgo.",
   },
   {
     user: "Sophia Hernandez",
-    company: "Synergy Systems",
+    company: "CMO at PayPoint",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "With Indigo,I have been able to track our revenue weekly,monthly,quarterly and annually with a detailed sales report i can share with my team .",
   },
 ];
 

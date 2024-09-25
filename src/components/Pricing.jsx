@@ -6,7 +6,7 @@ const Pricing = () => {
     <section className="mt-20" >
             <h2 className="text-3xl sm:text-5xl lg:text-6xl my-8 text-center tracking-tight"><span className="bg-gradient-to-b from-neutral-50 to-neutral-950 text-transparent bg-clip-text">Pricing</span>
             </h2>
-            <div className="flex flex-wrap">
+            <div className="flex flex-wrap mt-20">
               {pricingOptions.map((option, index) => (
                 <div key={index} className="w-full sm:w-1/2 lg:w-1/3 p-2">
                     <div className="p-10 border border-neutral-700 rounded-xl">
