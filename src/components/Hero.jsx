@@ -1,4 +1,4 @@
-import dashBoard from '../assets/indigo-dashboard.png'
+import dashBoard from '../assets/indigo/indigo-dashboard.png';
 
 const Hero = () => {
   return (

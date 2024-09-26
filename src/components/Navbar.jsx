@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Logo from '../assets/indigo-logo.png';
+import Logo from '../assets/indigo/indigo-logo.png';
 import { navItems } from '../constants';
 import {Menu, X} from 'lucide-react'
 

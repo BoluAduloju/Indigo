@@ -1,5 +1,5 @@
 import {CheckCircle2} from 'lucide-react';
-import integrationImg from '../assets/indigo-features.png'
+import integrationImg from '../assets/indigo/indigo-features.png'
 import { checklistItems } from '../constants';
 
 const Workflow = () => {
